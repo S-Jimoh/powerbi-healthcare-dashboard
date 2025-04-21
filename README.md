@@ -31,7 +31,7 @@ The dataset includes information on:
 ##  Key Calculated Columns & Metrics
 - **Urban vs. Rural Classification:** Based on funding thresholds  
 - **Funding Level Classification:** Low (<$45K), Medium (<$80K), High (≥$80K)  
-- **Funding Efficiency:** `Funding Received / Annual Patient Visits`  
+- **Funding Efficiency:** Funding Received / Annual Patient Visits  
 - **Availability Type:** Combined electricity and internet access classification  
 - **Response Time (mins):** For each facility type  
 - **Patient Satisfaction Rate** and other high-level KPIs
